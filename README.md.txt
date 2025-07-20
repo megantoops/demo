@@ -11,5 +11,30 @@ This repository contains solutions for the first In-Class Programming (ICP 1) as
 - Replacing words in a sentence
 - Using if else to calculate letter grades
 
+# ICP 2 – DSA 5620
 
+Name: Megan Toops  
+Assignment: In-Class Programming 2  
+Course: Data Science and Artificial Intelligence – Summer 2025  
+
+# Description  
+- Creating a DataFrame from a dictionary  
+- Displaying specific rows and columns  
+- Modifying column names  
+- Fixing and running a buggy DataFrame script  
+- Performing grouping operations
+
+# ICP 4 – DSA 5620
+
+Name: Megan Toops  
+Assignment: In-Class Programming 4  
+Course: Data Science & AI – Summer 2025  
+
+#Demo Video
+
+
+#Files Included
+- ICP4.ipynb
+- data.csv
+- ICP4 video
 
